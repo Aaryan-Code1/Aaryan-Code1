@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I’m Aaryan!<br><br>💬 Ask me about Web development and AI related stuff<br>📫 How to reach me: Twitter - @aaryandadheech, LinkedIn - @AaryanSharma<br>😄 Pronouns: He/His<br>⚡ Fun fact: “I am highly skilled at acquiring new knowledge and skills efficiently.”
+Hi there 👋<br><br>Nice meeting you, I’m Aaryan!<br><br>💬 Ask me about Web development and AI related stuff<br>📫 How to reach me: Twitter - @aaryandadheech, LinkedIn - @AaryanSharma, Email - aaryandadheech@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: “I am highly skilled at acquiring new knowledge and skills efficiently.”
 
 
 ## 🌐 Socials:
