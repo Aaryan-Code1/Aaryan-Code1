@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I’m Aaryan!<br><br>💬 Ask me about AI-Integrated Web Development related stuff<br>📫 How to reach me: Twitter - @aaryandadheech, LinkedIn - @AaryanSharma, Email - aaryandadheech@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: “I approach every challenge with a deep sense of curiosity and a commitment to rapid skill acquisition.”
+Hi there 👋<br><br>Nice meeting you, I’m Aaryan!<br><br>💬 Ask me about AI-Integrated Software Development related stuff<br>📫 How to reach me: Twitter - @aaryandadheech, LinkedIn - @AaryanSharma, Email - aaryandadheech@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: “I approach every challenge with a deep sense of curiosity and a commitment to rapid skill acquisition.”
 
 
 ## 🌐 Socials:
